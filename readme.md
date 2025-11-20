@@ -4,4 +4,6 @@ Theo     “Introduction & Setup”
 
 Raphael  "Commande git"
 
-Vova     "Outils & Workflow”
+Vova     "Outils & Workflow”*
+
+Ce wiki présente le workflow Git et les outils associés.
